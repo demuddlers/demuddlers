@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @demuddlers
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning python, dbt, snowflake
+I’m interested in data engineering
+I’m currently learning python, dbt, snowflake
 
 
 <!---
